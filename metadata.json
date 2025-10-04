@@ -1,0 +1,5 @@
+{
+  "name": "QR Business Card Generator",
+  "description": "A tool to create and generate professional QR business cards instantly. Input your contact details, write a professional summary, and download your vCard as a QR code.",
+  "requestFramePermissions": []
+}
